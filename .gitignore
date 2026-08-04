@@ -8,3 +8,7 @@ __pycache__/
 *.tfstate
 *.tfstate.backup
 /aws/
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
